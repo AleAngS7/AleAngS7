@@ -44,4 +44,4 @@ Currently Learning
  To develop strong software engineering fundamentals, build real-world projects, and grow into a well-rounded software developer.
 
  ## 📫 Connect With Me
-<p align="left"> <a href="https://github.com/AleAngS7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> <p align="center"> <i>Always learning. Always building.</i> </p>
+<p align="left"> <a href="https://discord.com/invite/TU_DISCORD" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"/> </a> <a href="mailto:tucorreo@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/> </a> </p>
