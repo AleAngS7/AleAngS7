@@ -17,7 +17,12 @@
 
  ## 🛠️ Technologies & Tools
 
- \<img src="https://skillicons.dev/icons?i=python,git,github,vscode" /\> **Currently exploring:** Python · SQL · APIs · Git
+Languages
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> </a> </p>
+Tools & Technologies
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/> </a> </p>
+Currently Learning
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a> </p>
 
  ## 📚 What I'm Learning
 
@@ -38,6 +43,5 @@
 
  To develop strong software engineering fundamentals, build real-world projects, and grow into a well-rounded software developer.
 
- ## 📫 GitHub
-
- @AleAngS7
+ ## 📫 Connect With Me
+<p align="left"> <a href="https://github.com/AleAngS7" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> <p align="center"> <i>Always learning. Always building.</i> </p>
