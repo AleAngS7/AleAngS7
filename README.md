@@ -15,7 +15,7 @@
 - 🌱 Building projects to strengthen my programming fundamentals
 - 🚀 Interested in software development and learning new technologies
 
- ## 🛠️ Technologies & Tools
+ ## 🛠️ Tech Stack
 
 Languages
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> </a> </p>
@@ -44,4 +44,4 @@ Currently Learning
  To develop strong software engineering fundamentals, build real-world projects, and grow into a well-rounded software developer.
 
  ## 📫 Connect With Me
-<p align="left"> <a href="https://discord.com/invite/TU_DISCORD" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"/> </a> <a href="mailto:tucorreo@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://discord.com/users/751926547925172226" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"/> </a> <a href="mailto:lopmitzy2@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/> </a> </p>
